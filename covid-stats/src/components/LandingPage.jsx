@@ -1,5 +1,5 @@
 import React from 'react'
-import corona from "./assets/corona.png"
+import corona from "../assets/corona.png"
 
 export default function LandingPage () {
   return (
